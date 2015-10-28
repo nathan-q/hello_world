@@ -1,2 +1,11 @@
-# hello_world
-basic hello world c++
+// hello_world basic hello world c++
+
+#inclulde <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout << "Hello World" << endl;
+  return 0;
+}
